@@ -12,6 +12,14 @@ This is a training project with Laravel 9.The code is available for free.
 for developing fast and powerful web interfaces.
 * [HighLight JS](https://highlightjs.org/) - Syntax highlighting for the Web.
 
+## Features
+
+* Writing collaborative articles.
+* Order your articles by categories.
+* Define roles for your users.
+* Comment/recommend articles.
+* Search in your articles.
+
 ## Contributing
 
 [Issues](https://github.com/ckheder/LaraBlog/issues) - Got issues? Please tell me!
