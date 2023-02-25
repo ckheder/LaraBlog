@@ -19,6 +19,8 @@ for developing fast and powerful web interfaces.
 * Define roles for your users.
 * Comment/recommend articles.
 * Search in your articles.
+* Sending messages between users.
+* Moderation of articles and comments.
 
 ## Contributing
 
